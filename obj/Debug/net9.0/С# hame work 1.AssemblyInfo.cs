@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("С# hame work 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdadce35ac9b94f600b37c7b3b6ac33bc4fb2e8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("С# hame work 1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("С# hame work 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
